@@ -1,3 +1,8 @@
+
+
+
+
+
 Panel de CRM basado en React que incluye autenticación integral, gráficos antd, gestión de ventas y un tablero kanban completamente operativo con actualizaciones en vivo para acciones en tiempo real en todos los dispositivos.
 
 Si está comenzando y necesita ayuda o enfrenta algún error, únase a nuestra comunidad activa de Discord con más de 27 mil miembros. Es un lugar donde la gente se ayuda unas a otras.
