@@ -80,5 +80,8 @@ npm install
 npm run dev
 ```
 
+## login adm account / ingresar con cuenta adm ##
+ email: "juanperez@mail.com",
+  password: "demodemo",
 
 
